@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.Lab7.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.Resources.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.vbproj.GenerateResource.Cache
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.pdb

@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\LinqLab\LinqLab\bin\Debug\LinqLab.exe.config
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\bin\Debug\LinqLab.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\bin\Debug\LinqLab.pdb
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\bin\Debug\LinqLab.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\obj\Debug\LinqLab.LinqLab.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\obj\Debug\LinqLab.Resources.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\obj\Debug\LinqLab.vbproj.GenerateResource.Cache
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\obj\Debug\LinqLab.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\obj\Debug\LinqLab.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\LinqLab\LinqLab\obj\Debug\LinqLab.pdb

@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\bin\Debug\Lab2Part1.exe.config
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\bin\Debug\Lab2Part1.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\bin\Debug\Lab2Part1.pdb
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\bin\Debug\Lab2Part1.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\obj\Debug\Lab2Part1.Form1.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\obj\Debug\Lab2Part1.Resources.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\obj\Debug\Lab2Part1.vbproj.GenerateResource.Cache
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\obj\Debug\Lab2Part1.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\obj\Debug\Lab2Part1.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab2Part1\Lab2Part1\obj\Debug\Lab2Part1.pdb

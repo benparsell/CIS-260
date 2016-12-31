@@ -1,0 +1,42 @@
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 12\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\Users\Teresa\Desktop\Winter 2014 Handouts\Winter 2014 Handouts\CIS 260\Instructors\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Teresa\Desktop\Winter 2014 Handouts\Winter 2014 Handouts\CIS 260\Instructors\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Teresa\Desktop\Winter 2014 Handouts\Winter 2014 Handouts\CIS 260\Instructors\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Teresa\Desktop\Winter 2014 Handouts\Winter 2014 Handouts\CIS 260\Instructors\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Teresa\Desktop\Classes\CIS 260\Instructors2014\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Teresa\Desktop\Classes\CIS 260\Instructors2014\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Teresa\Desktop\Classes\CIS 260\Instructors2014\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Teresa\Desktop\Classes\CIS 260\Instructors2014\Extra exercises\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache

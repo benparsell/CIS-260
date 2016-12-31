@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\bin\Debug\Lab6.exe.config
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\bin\Debug\Lab6.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\bin\Debug\Lab6.pdb
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\bin\Debug\Lab6.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\obj\Debug\Lab6.Resources.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\obj\Debug\Lab6.vbproj.GenerateResource.Cache
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\obj\Debug\Lab6.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\obj\Debug\Lab6.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\obj\Debug\Lab6.pdb
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab6\Lab6\obj\Debug\Lab6.Lab6.resources

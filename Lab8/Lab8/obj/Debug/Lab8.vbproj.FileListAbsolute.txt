@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.exe.config
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.pdb
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.Lab8.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.Resources.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.vbproj.GenerateResource.Cache
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.pdb

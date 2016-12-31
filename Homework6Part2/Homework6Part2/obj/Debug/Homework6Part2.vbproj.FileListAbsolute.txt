@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\Homework6Part2\Homework6Part2\bin\Debug\Homework6Part2.exe.config
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\obj\Debug\Homework6Part2.Homework6Part2.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\obj\Debug\Homework6Part2.Resources.resources
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\obj\Debug\Homework6Part2.vbproj.GenerateResource.Cache
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\bin\Debug\Homework6Part2.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\bin\Debug\Homework6Part2.pdb
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\bin\Debug\Homework6Part2.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\obj\Debug\Homework6Part2.exe
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\obj\Debug\Homework6Part2.xml
+C:\Users\parsellb\Documents\Visual Studio 2012\Projects\Homework6Part2\Homework6Part2\obj\Debug\Homework6Part2.pdb

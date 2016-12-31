@@ -1,0 +1,10 @@
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.Lab5.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.Resources.resources
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.vbproj.GenerateResource.Cache
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.xml
+c:\users\parsellb\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
